@@ -1,0 +1,3 @@
+Python dasturlash tili juda qulay va sodda.
+Fayllar bilan ishlash dasturchilar uchun muhim mavzu hisoblanadi.
+Bugun biz matnli fayllar bilan ishlashni o'rgandik.
